@@ -41,22 +41,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been fortunate enough to have had a wide variety of both academic and work related experiences. I enjoy getting to know new groups of people and helping unpack the root of their business issue. Combine that with a broad and technical background I'm often relied upon to be a translator or integrator. As my career has primarily been consultative in nature it has allowed me to gain a great appreciation of various work environments and business problems. I have a natural thirst for knowledge and I really enjoy applying my experiences to new problems and areas of the industry. As a consultant residing in Regina it is no surprise my engagements have been almost exclusively Government and Crown related. I know that my familiarity with Government processes and policy has served me well and accelerated my ability to work within these organizational structures. I continue to focus on a strategy whose goal is to synchronize information technology (IT) and business cultures/objectives. I measure my success as a reflection of how well IT is being absorbed as a function of business.
+      I have been fortunate enough to have had a wide variety of both academic and work related experiences. I enjoy getting to know new groups of people and helping unpack the root of their business issue. Combine that with a broad and technical background I'm often relied upon to be a translator or integrator. As my career has primarily been consultative in nature it has allowed me to gain a great appreciation of various work environments and business problems. I have a natural thirst for knowledge and I really enjoy applying my experiences to new problems and areas of the industry. 
+      
+      As a consultant residing in Regina it is no surprise my engagements have been almost exclusively Government and Crown related. I know that my familiarity with Government processes and policy has served me well and accelerated my ability to work within these organizational structures. 
+      
+      I continue to focus on a strategy whose goal is to synchronize information technology (IT) and business cultures/objectives. I measure my success as a reflection of how well IT is being absorbed as a function of business.
 education:
     - degree: BSc in Computer Engineering
       university: University of Alberta
       time: 
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -173,6 +166,9 @@ skills:
 
       - name: Enterprise Architecture
         level: 85%
+      
+      - name: Generalist
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
