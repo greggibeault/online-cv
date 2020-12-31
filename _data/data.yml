@@ -181,22 +181,22 @@ skills:
 
     toolset:
       - name: Relationship Building
-        level: 95%
+        level: 96%
 
       - name: Translator
-        level: 95%
+        level: 98%
 
       - name: Requirements Solicitation
-        level: 85%
+        level: 84%
 
       - name: Solution Design
-        level: 85%
+        level: 88%
 
       - name: Strategy
-        level: 85%
+        level: 89%
 
       - name: Enterprise Architecture
-        level: 85%
+        level: 82%
       
       - name: Generalist
         level: 100%
