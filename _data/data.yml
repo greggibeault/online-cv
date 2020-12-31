@@ -41,11 +41,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been fortunate enough to have had a wide variety of both academic and work related experiences. I enjoy getting to know new groups of people and helping unpack the root of their business issue. Combine that with a broad and technical background I'm often relied upon to be a translator or integrator. As my career has primarily been consultative in nature it has allowed me to gain a great appreciation of various work environments and business problems. I have a natural thirst for knowledge and I really enjoy applying my experiences to new problems and areas of the industry. 
-      
-      As a consultant residing in Regina it is no surprise my engagements have been almost exclusively Government and Crown related. I know that my familiarity with Government processes and policy has served me well and accelerated my ability to work within these organizational structures. 
-      
-      I continue to focus on a strategy whose goal is to synchronize information technology (IT) and business cultures/objectives. I measure my success as a reflection of how well IT is being absorbed as a function of business.
+      I have been fortunate enough to have had a wide variety of both academic and work related experiences. I enjoy getting to know new groups of people and helping unpack the root of their business issue. Combine that with a broad and technical background I’m often relied upon to be a translator or integrator. As my career has primarily been consultative in nature it has allowed me to gain a great appreciation of various work environments and business problems. I have a natural thirst for knowledge and I really enjoy applying my experiences to new problems and areas of the industry.
+
+As a consultant residing in Regina it is no surprise my engagements have been almost exclusively Government and Crown related. I know that my familiarity with Government processes and policy has served me well and accelerated my ability to work within these organizational structures.
+
+I continue to focus on a strategy whose goal is to synchronize information technology (IT) and business cultures/objectives. I measure my success as a reflection of how well IT is being absorbed as a function of business. 
 education:
     - degree: BSc in Computer Engineering
       university: University of Alberta
@@ -59,21 +59,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Director Analytics Consulting
+      time: 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Working collaboratively with the Ministry of Central Services, IT Division to refine and deliver the most impactful Enterprise Operational Reporting Service possible. Greg is onsite working closely with Ministry staff and liaising with technical teams within ISM in order to build the desired collaborative partnership. This also involves working with ministries consuming the service from the IT Division to ensure their needs are being met as well as uncovering new features they desire in order to meet the demands of their organizational units.
+
+        Greg manages a team of Analytics Consultants that are delivering services to organizations across Saskatchewan including insurance, agriculture, water, and social innovation focuses.
+         - Stabilized Enterprise Reporting Platform by addressing some intemittent and ongoing performance issues. Engaging software vendors and delivery teams to execute rectifying actions. Worked with downstream customers on minimizing impacts.
+         - Enhanced Enterprise Platform with new features: Burst Reporting, Jupyter Notebooks, Analytics Tools, Data Masking, Versioning Tools, Multitenancy features, Azure AD integration, Audit.
+         - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
+         - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
+         - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -83,8 +80,12 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Stabilized Enterprise Reporting Platform by addressing some intemittent and ongoing performance issues. Engaging software vendors and delivery teams to execute rectifying actions. Worked with downstream customers on minimizing impacts.
+          - Enhanced Enterprise Platform with new features: Burst Reporting, Jupyter Notebooks, Analytics Tools, Data Masking, Versioning Tools, Multitenancy features, Azure AD integration, Audit.
+          - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
+          - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
+          - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
