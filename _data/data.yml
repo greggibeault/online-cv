@@ -97,27 +97,27 @@ projects:
         tagline: "Director of Analytics Consulting for ISM Canada, managing a team of consultants and analysts. Main client was the Information Technology Division (Government of Saskatchewan) developing and implementing their Enterprise Operational Reporting Service and helping shape their Enterprise Data Management Strategy."
 
       - title: Ministry of Justice, Strategic Systems & Innovation
-        link: "#"
+        link: 
         tagline: "Primary Business/Enterprise Architect for the Ministry of Justice. Worked on the “Small Systems” initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities. "
 
       - title: Ministry of Justice, Strategic Systems & Innovation
-        link: "#"
+        link: 
         tagline: "Transformed four existing legacy applications (in CJIMS, the main project within the Integrated Justice Portfolio) into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. (Ministry of Justice and Corrections (GoS)- Regina, SK)"
 
       - title: Ministry of Social Services, Child & Family Services
-        link: "#"
+        link: 
         tagline: "Implemented version 6 of Cùram with the Ministry of Social Services as well as a data sync between the new system and legacy systems to ensure all programs were using a single coordinated record."
 
       - title: Ministry of Parks, Culture & Sport, Provincial Parks Program
-        link: "#"
+        link: 
         tagline: "Transitioned the Saskatchewan Provincial Parks campground management and reservation system hosted by an offsite vendor from the project state to being able to maintain the product on an ongoing basis. Also helped stabilize the application after a difficult launch, primarily hardware and performance related mitigations."
       
       - title: Saskatchewan Workers Compensation Board
-        link: "#"
+        link: 
         tagline: "Acted as a senior business and systems analyst as part of the legacy system support team, also was assigned the role as Project Control Lead, for the Saskatchewan Workers’ Compensation Board when they undertook a replacement of their legacy claims system."
         
       - title: Lacombe County
-        link: "#"
+        link: 
         tagline: "From 2004-2007 worked for Lacombe County, operating as a “one-man” IT shop supporting approximately 150 users and workstations."      
         
 experiences:
