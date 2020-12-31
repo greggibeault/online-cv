@@ -2,15 +2,16 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-    sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-# Profile information
+
+    # Profile information
     name: Greg Gibeault
-    tagline: Business Architect/Integration
+    tagline: Executive Consultant, Business Architecture & Integration
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-# Sidebar links
+    # Sidebar links
     email: 
     phone: 
     website:  #do not add http://
@@ -26,39 +27,168 @@
     languages:
       - idiom: English
         level: Native
-
+      
     interests:
-      - item: Hockey
+      - item: Hockey, Soccer, Golf, Fantasy Sports, Investing
         link:
-
-      - item: Soccer
-        link:
-
-      - item: Golf
-        link:
-
-    career-profile:
+      
+career-profile:
     title: Career Profile
     summary: |
       I have been fortunate enough to have had a wide variety of both academic and work related experiences. I enjoy getting to know new groups of people and helping unpack the root of their business issue. Combine that with a broad and technical background I’m often relied upon to be a translator or integrator. As my career has primarily been consultative in nature it has allowed me to gain a great appreciation of various work environments and business problems. I have a natural thirst for knowledge and I really enjoy applying my experiences to new problems and areas of the industry.
-
       As a consultant residing in Regina it is no surprise my engagements have been almost exclusively Government and Crown related. I know that my familiarity with Government processes and policy has served me well and accelerated my ability to work within these organizational structures.
-      
       I continue to focus on a strategy whose goal is to synchronize information technology (IT) and business cultures/objectives. I measure my success as a reflection of how well IT is being absorbed as a function of business. 
-    education:
+    
+education:
     - degree: BSc in Computer Engineering
       university: University of Alberta
-      time: 
+      time: 1998 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Computer Engineering at the University of Alberta includes course work from Electrical Engineering and Computer Science. Through my option couses I focused on finance, economics, and business.
+experiences:
+    - role: Director, Analytics Consulting
+      time: 2018 - Present
+      company: ISM Canada, Regina, SK
+      details: |
+        Working collaboratively with the Ministry of Central Services, IT Division to refine and deliver the most impactful Enterprise Operational Reporting Service possible. Greg is onsite working closely with Ministry staff and liaising with technical teams within ISM in order to build the desired collaborative partnership. This also involves working with ministries consuming the service from the IT Division to ensure their needs are being met as well as uncovering new features they desire in order to meet the demands of their organizational units.
+	Greg manages a team of Analytics Consultants that are delivering services to organizations across Saskatchewan including insurance, agriculture, water, and social innovation focuses.
+	  - Stabilized Enterprise Reporting Platform by addressing some intermittent and ongoing performance issues. Engaging software vendors and delivery teams to execute rectifying actions. Worked with downstream customers on minimizing impacts.
+	  - Enhanced Enterprise Platform with new features: Burst Reporting, Jupyter Notebooks, Analytics Tools, Data Masking, Versioning Tools, Multitenancy features, Azure AD integration, Audit.
+	  - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
+	  - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
+          - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
+    - role: Business / Enterprise Architect
+      time: 2014 - 2018
+      company: ISM Canada, Regina, SK
+      details: |
+        CJIMS, the main project within the Integrated Justice Portfolio, transformed four existing legacy applications into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and Dell. He also guided solutions based on Business Analysis and Architecture best practices.
+        Greg also worked with several other sub projects that will integrate with CJIMS including: EPIC (Prosecutions), ACES (Enforcement Support), EMJA (Money Judgment), and PIES (Prosecutions Information Exchange).
+	He was also the Business/Enterprise Architect for Justice. Worked on the Small Systems initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities and outcomes.
+	  - Developed the Performance Test Strategy and performed the performance testing utilizing Rational Performance Tester against CJIMS, ACES, and EPIC. Based on the results obtained the infrastructure allotted was increased to improve performance and ensure the application will function as expected through all three phases of the project and the increased user demands.
+	  - Engaged with a third party vendor to undertake a vulnerability assessment of the CJIMS application and coordinated implementing the recommendations. This ensured the system security as it contains Class A data.
+	  - Initiated the creation of a reporting database server as the first steps to creating an Integrated Justice Data Warehouse. This ensured that the production server wasn’t taxed or overloaded unnecessarily by adhoc queries and management reports.
+	  - Worked with SMEs to help bridge the gap on Court Financial requirements and development, especially on technical items. This includes the integration with Moneris pinpads, fee holdbacks and bank account loads, and fine distribution logic.
+	  - Formalized the architecture building blocks created within IJIMS/Small Systems and built a proper business repository to encourage reuse and compliance with existing architectural standards by the subsequent projects.
+          - Architect/Business Analyst on several Justice projects: CJIMS, EPIC, ACES, EMJA, PIES, CONP, ORT, OFP. Mentoring resources on requirements gathering, workshop facilitation, requirements documentation, testing, project management, solutioning and delivering projects.
+    - role: Senior Business Analyst / Product Manager
+      time: 2013 - 2017
+      company: ISM Canada, Regina, SK
+      details: |
+        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
+	  - Implemented ticket logging and tracking procedures including a review cycle for future releases.
+	  - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
+	  - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
+	  - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
+	  - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
+	  - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
+	  - Provided data analytics to help inform policy decisions.
+          - Developed comprehensive training manual with the help of Parks staff.
+    - role: Senior Business Analyst / Application Architect
+      time: 2013 - 2014
+      company: ISM Canada, Regina, SK
+      details: |
+        Saskatchewan Social Services implemented Cùram (Linkin) to replace multiple legacy systems. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and IBM. He also guided solutions based on architecture best practices.
+	  - Performed performance testing using IBM Rational Performance Tester and implemented several server hardware and configuration changes that lead to a more efficient system.
+	  - Inventoried existing user hardware and initiated replacement of machines that would not be sufficient for system operation.
+	  - Developed workstation deployment package required to utilize the system.
+	  - Solution Architecture work to ensure that the vision for the future component implementations of Linkin was in place in time for the subsequent phases.
+	  - Implemented a new Citrix environment for the upgraded Cùram product as it had different prerequisites than the previous version.
+	  - Liaised with a third party vendor in regards to a vulnerability assessment and provided recommendations to the project team on enhancements to ensure proper security of the application
+          - Implemented a synchronized data sync that kept the remaining legacy applications and Linkin sync until such time as they are replaced.
+    - role: Senior Business Analyst / Product Manager
+      time: 2013 - 2017
+      company: ISM Canada, Regina, SK
+      details: |
+        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
+	  - Implemented ticket logging and tracking procedures including a review cycle for future releases.
+	  - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
+	  - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
+	  - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
+	  - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
+	  - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
+	  - Provided data analytics to help inform policy decisions.
+          - Developed comprehensive training manual with the help of Parks staff.
+    - role: Senior Business Analyst / Product Manager
+      time: 2013 - 2017
+      company: ISM Canada, Regina, SK
+      details: |
+        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
+	  - Implemented ticket logging and tracking procedures including a review cycle for future releases.
+	  - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
+	  - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
+	  - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
+	  - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
+	  - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
+	  - Provided data analytics to help inform policy decisions.
+          - Developed comprehensive training manual with the help of Parks staff.
+    - role: Senior Business Analyst / Product Manager
+      time: 2013 - 2017
+      company: ISM Canada, Regina, SK
+      details: |
+        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
+	  - Implemented ticket logging and tracking procedures including a review cycle for future releases.
+	  - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
+	  - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
+	  - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
+	  - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
+	  - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
+	  - Provided data analytics to help inform policy decisions.
+          - Developed comprehensive training manual with the help of Parks staff.
 
-    skills:
+projects:
+    title: Career Highlights
+    intro: >
+      My career highlights all have roots in technology, but remain focused on creating success for a business unit or units. I've been lucky to have worked with capable business subject matter experts that were able to help inform me of what they were trying to accomplish. I then used my skills to maximize their outcomes leveraging available and appropriate IT solutions.
+    assignments:
+      - title: Ministry of Central Services, Information Technology Division
+        link:
+        tagline: "Director of Analytics Consulting for ISM Canada, managing a team of consultants and analysts. Main client was the Information Technology Division (Government of Saskatchewan) developing and implementing their Enterprise Operational Reporting Service and helping shape their Enterprise Data Management Strategy."
+	
+      - title: Ministry of Justice, Strategic Systems & Innovation
+        link: 
+        tagline: "Primary Business/Enterprise Architect for the Ministry of Justice. Worked on the “Small Systems” initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities. "
+	
+      - title: Ministry of Justice, Strategic Systems & Innovation
+        link: 
+        tagline: "Transformed four existing legacy applications (in CJIMS, the main project within the Integrated Justice Portfolio) into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. (Ministry of Justice and Corrections (GoS)- Regina, SK)"
+	
+      - title: Ministry of Social Services, Child & Family Services
+        link: 
+        tagline: "Implemented version 6 of Cùram with the Ministry of Social Services as well as a data sync between the new system and legacy systems to ensure all programs were using a single coordinated record."
+	
+      - title: Ministry of Parks, Culture & Sport, Provincial Parks Program
+        link: 
+        tagline: "Transitioned the Saskatchewan Provincial Parks campground management and reservation system hosted by an offsite vendor from the project state to being able to maintain the product on an ongoing basis. Also helped stabilize the application after a difficult launch, primarily hardware and performance related mitigations."
+	      
+      - title: Saskatchewan Workers Compensation Board
+        link: 
+        tagline: "Acted as a senior business and systems analyst as part of the legacy system support team, also was assigned the role as Project Control Lead, for the Saskatchewan Workers’ Compensation Board when they undertook a replacement of their legacy claims system."
+	        
+      - title: Lacombe County
+        link: 
+        tagline: "From 2004-2007 worked for Lacombe County, operating as a “one-man” IT shop supporting approximately 150 users and workstations."      
+
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -83,121 +213,5 @@
       - name: Generalist
         level: 100%
 
-    projects:
-    title: Career Highlights
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-    
-      - title: Ministry of Central Services, Information Technology Division
-        link:
-        tagline: "Director of Analytics Consulting for ISM Canada, managing a team of consultants and analysts. Main client was the Information Technology Division (Government of Saskatchewan) developing and implementing their Enterprise Operational Reporting Service and helping shape their Enterprise Data Management Strategy."
-
-      - title: Ministry of Justice, Strategic Systems & Innovation
-        link: 
-        tagline: "Primary Business/Enterprise Architect for the Ministry of Justice. Worked on the “Small Systems” initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities. "
-
-      - title: Ministry of Justice, Strategic Systems & Innovation
-        link: 
-        tagline: "Transformed four existing legacy applications (in CJIMS, the main project within the Integrated Justice Portfolio) into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. (Ministry of Justice and Corrections (GoS)- Regina, SK)"
-
-      - title: Ministry of Social Services, Child & Family Services
-        link: 
-        tagline: "Implemented version 6 of Cùram with the Ministry of Social Services as well as a data sync between the new system and legacy systems to ensure all programs were using a single coordinated record."
-
-      - title: Ministry of Parks, Culture & Sport, Provincial Parks Program
-        link: 
-        tagline: "Transitioned the Saskatchewan Provincial Parks campground management and reservation system hosted by an offsite vendor from the project state to being able to maintain the product on an ongoing basis. Also helped stabilize the application after a difficult launch, primarily hardware and performance related mitigations."
-      
-      - title: Saskatchewan Workers Compensation Board
-        link: 
-        tagline: "Acted as a senior business and systems analyst as part of the legacy system support team, also was assigned the role as Project Control Lead, for the Saskatchewan Workers’ Compensation Board when they undertook a replacement of their legacy claims system."
-        
-      - title: Lacombe County
-        link: 
-        tagline: "From 2004-2007 worked for Lacombe County, operating as a “one-man” IT shop supporting approximately 150 users and workstations."      
-        
-    experiences:
-      
-      - role: Director, Analytics Consulting
-        time: 2018 - Present
-        company: ISM Canada, Regina, SK
-        details: |
-          Working collaboratively with the Ministry of Central Services, IT Division to refine and deliver the most impactful Enterprise Operational Reporting Service possible. Greg is onsite working closely with Ministry staff and liaising with technical teams within ISM in order to build the desired collaborative partnership. This also involves working with ministries consuming the service from the IT Division to ensure their needs are being met as well as uncovering new features they desire in order to meet the demands of their organizational units.
-
-          Greg manages a team of Analytics Consultants that are delivering services to organizations across Saskatchewan including insurance, agriculture, water, and social innovation focuses.
-           - Stabilized Enterprise Reporting Platform by addressing some intermittent and ongoing performance issues. Engaging software vendors and delivery teams to execute rectifying actions. Worked with downstream customers on minimizing impacts.
-           - Enhanced Enterprise Platform with new features: Burst Reporting, Jupyter Notebooks, Analytics Tools, Data Masking, Versioning Tools, Multitenancy features, Azure AD integration, Audit.
-           - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
-           - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
-           - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
-      
-      - role: Business & Enterprise Architect
-        time: 2014 - 2018
-        company: ISM Canada, Regina, SK
-        details: |
-          CJIMS, the main project within the Integrated Justice Portfolio, transformed four existing legacy applications into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and Dell. He also guided solutions based on Business Analysis and Architecture best practices.
-          
-          Greg also worked with several other sub projects that will integrate with CJIMS including: EPIC (Prosecutions), ACES (Enforcement Support), EMJA (Money Judgment), and PIES (Prosecutions Information Exchange).
-          
-          He was also the Business/Enterprise Architect for Justice. Worked on the Small Systems initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities and outcomes.
-           - Developed the Performance Test Strategy and performed the performance testing utilizing Rational Performance Tester against CJIMS, ACES, and EPIC. Based on the results obtained the infrastructure allotted was increased to improve performance and ensure the application will function as expected through all three phases of the project and the increased user demands.
-           - Engaged with a third party vendor to undertake a vulnerability assessment of the CJIMS application and coordinated implementing the recommendations. This ensured the system security as it contains Class A data.
-           - Initiated the creation of a reporting database server as the first steps to creating an Integrated Justice Data Warehouse. This ensured that the production server wasn’t taxed or overloaded unnecessarily by adhoc queries and management reports.
-           - Worked with SMEs to help bridge the gap on Court Financial requirements and development, especially on technical items. This includes the integration with Moneris pinpads, fee holdbacks and bank account loads, and fine distribution logic.
-           - Formalized the architecture building blocks created within IJIMS/Small Systems and built a proper business repository to encourage reuse and compliance with existing architectural standards by the subsequent projects.
-           - Architect/Business Analyst on several Justice projects: CJIMS, EPIC, ACES, EMJA, PIES, CONP, ORT, OFP. Mentoring resources on requirements gathering, workshop facilitation, requirements documentation, testing, project management, solutioning and delivering projects.
-
-       - role: Senior Business Analyst / Product Manager
-         time: 2013 - 2017
-         company: ISM Canada, Regina, SK
-         details: |
-           Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
-            - Implemented ticket logging and tracking procedures including a review cycle for future releases.
-            - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
-            - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
-            - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
-            - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
-            - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
-            - Provided data analytics to help inform policy decisions.
-            - Developed comprehensive training manual with the help of Parks staff.
-
-       - role: Senior Business Analyst / Application Architect
-         time: 2013 - 2014
-         company: ISM Canada, Regina, SK
-         details: |
-           Saskatchewan Social Services implemented Cùram (Linkin) to replace multiple legacy systems. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and IBM. He also guided solutions based on architecture best practices.
-            - Performed performance testing using IBM Rational Performance Tester and implemented several server hardware and configuration changes that lead to a more efficient system.
-            - Inventoried existing user hardware and initiated replacement of machines that would not be sufficient for system operation.
-            - Developed workstation deployment package required to utilize the system.
-            - Solution Architecture work to ensure that the vision for the future component implementations of Linkin was in place in time for the subsequent phases.
-            - Implemented a new Citrix environment for the upgraded Cùram product as it had different prerequisites than the previous version.
-            - Liaised with a third party vendor in regards to a vulnerability assessment and provided recommendations to the project team on enhancements to ensure proper security of the application
-            - Implemented a synchronized data sync that kept the remaining legacy applications and Linkin sync until such time as they are replaced.
-
-    publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: 
-        link: ""
-        authors: 
-        conference: 
-
-      - title: ""
-        link: ""
-        authors: 
-        conference: ""
-
-      - title: 
-        link: ""
-        authors: 
-        conference: ""
-
-    footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
