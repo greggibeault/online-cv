@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website:  #do not add http://
     linkedin: greg-gibeault-4a49364b
-    github: greg gibeault
+    github: greggibeault
     gitlab:
     bitbucket:
     twitter: 
@@ -58,6 +58,31 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Relationship Building
+        level: 95%
+
+      - name: Translator
+        level: 95%
+
+      - name: Requirements Solicitation
+        level: 85%
+
+      - name: Solution Design
+        level: 85%
+
+      - name: Strategy
+        level: 85%
+
+      - name: Enterprise Architecture
+        level: 85%
+      
+      - name: Generalist
+        level: 100%
 
 projects:
     title: Career Highlights
@@ -124,18 +149,32 @@ experiences:
          - Formalized the architecture building blocks created within IJIMS/Small Systems and built a proper business repository to encourage reuse and compliance with existing architectural standards by the subsequent projects.
          - Architect/Business Analyst on several Justice projects: CJIMS, EPIC, ACES, EMJA, PIES, CONP, ORT, OFP. Mentoring resources on requirements gathering, workshop facilitation, requirements documentation, testing, project management, solutioning and delivering projects.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Business Analyst / Product Manager
+      time: 2013 - 2017
+      company: ISM Canada, Regina, SK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
+         - Implemented ticket logging and tracking procedures including a review cycle for future releases.
+         - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
+         - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
+         - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
+         - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
+         - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
+         - Provided data analytics to help inform policy decisions.
+         - Developed comprehensive training manual with the help of Parks staff.
 
+     - role: Senior Business Analyst / Application Architect
+       time: 2013 - 2014
+       company: ISM Canada, Regina, SK
+       details: |
+         Saskatchewan Social Services implemented Cùram (Linkin) to replace multiple legacy systems. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and IBM. He also guided solutions based on architecture best practices.
+          - Performed performance testing using IBM Rational Performance Tester and implemented several server hardware and configuration changes that lead to a more efficient system.
+          - Inventoried existing user hardware and initiated replacement of machines that would not be sufficient for system operation.
+          - Developed workstation deployment package required to utilize the system.
+          - Solution Architecture work to ensure that the vision for the future component implementations of Linkin was in place in time for the subsequent phases.
+          - Implemented a new Citrix environment for the upgraded Cùram product as it had different prerequisites than the previous version.
+          - Liaised with a third party vendor in regards to a vulnerability assessment and provided recommendations to the project team on enhancements to ensure proper security of the application
+          - Implemented a synchronized data sync that kept the remaining legacy applications and Linkin sync until such time as they are replaced.
 
 publications:
     title: Publications
@@ -144,45 +183,22 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        link: ""
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: ""
+        link: ""
+        authors: 
+        conference: ""
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        link: ""
+        authors: 
+        conference: ""
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Relationship Building
-        level: 95%
-
-      - name: Translator
-        level: 95%
-
-      - name: Requirements Solicitation
-        level: 85%
-
-      - name: Solution Design
-        level: 85%
-
-      - name: Strategy
-        level: 85%
-
-      - name: Enterprise Architecture
-        level: 85%
-      
-      - name: Generalist
-        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
