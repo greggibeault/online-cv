@@ -100,50 +100,33 @@ experiences:
           - Implemented a new Citrix environment for the upgraded Cùram product as it had different prerequisites than the previous version.
           - Liaised with a third party vendor in regards to a vulnerability assessment and provided recommendations to the project team on enhancements to ensure proper security of the application
           - Implemented a synchronized data sync that kept the remaining legacy applications and Linkin sync until such time as they are replaced.
-    - role: Senior Business Analyst / Product Manager
-      time: 2013 - 2017
+    - role: Project Control Lead / Senior Business Analyst
+      time: 2008 - 2012
       company: ISM Canada, Regina, SK
       details: |
-        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
-          - Implemented ticket logging and tracking procedures including a review cycle for future releases.
-          - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
-          - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
-          - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
-          - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
-          - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
-          - Provided data analytics to help inform policy decisions.
-          - Developed comprehensive training manual with the help of Parks staff.
-    - role: Senior Business Analyst / Product Manager
-      time: 2013 - 2017
+        Saskatchewan Workers’ Compensation Board undertook a replacement of their legacy claims system. Greg was acting as a senior business analyst as part of the legacy system support team and was assigned the role as Project Control Lead on the project.
+          - Responsible for budgeting, cost estimation and forecasting, project governance, and project planning.  He worked closely with the individual team leads to maintain consistency and summarized their progress into an Integrated Project Plan for presentation to the Executive.  
+          - Lead requirements gathering sessions for multiple small to mid-sized sub-projects and was involved throughout their development cycle. 
+          - Extensively involved during cutover triaging issues. Post go-live helped investigate ongoing issues and provided direction as to how the new system should be used to best approximate historical functionality or provided recommendations on what enhancements should be made if required.
+          - Acted as the main reporting business analyst and helped reproduce many of the metrics SWCB was accustom to governing themselves by.
+          - Aided in the development of suitable workarounds for functionality that wasn’t fully automated or customizable. These were critical to allow SWCB to meet their desired go-live date and allowed the project to proceed as scheduled
+          - Mentored the in house resources and developed documentation on his role to aid in future knowledge transfer. Took part in a Business Analyst group organized by SWCB employees that attempted to bring consistency to the position and develop a set of guidelines and training materials.
+    - role: Information Technology Analyst / FOIP Coordinator
+      time: 2004 - 2008
       company: ISM Canada, Regina, SK
       details: |
-        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
-          - Implemented ticket logging and tracking procedures including a review cycle for future releases.
-          - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
-          - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
-          - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
-          - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
-          - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
-          - Provided data analytics to help inform policy decisions.
-          - Developed comprehensive training manual with the help of Parks staff.
-    - role: Senior Business Analyst / Product Manager
-      time: 2013 - 2017
-      company: ISM Canada, Regina, SK
-      details: |
-        Saskatchewan Provincial Parks implemented a campground management and reservation system hosted by an offsite vendor. Greg’s role was to transition from the project state to being able to maintain the product on an ongoing basis. Parks had managed their own application before, but were unaccustomed to the rigor required when working with a vendor. 
-          - Implemented ticket logging and tracking procedures including a review cycle for future releases.
-          - Trained staff on creating meaningful requirements via use cases, testing best practices (including a traceability matrix), and enhancement prioritization methods.
-          - Established yearly calendar to help coordinate and kick off necessary tasks with enough lead time to meet deadlines for subsequent year’s camping season.
-          - Completed a maturity assessment with the executive and provided a set of recommendations to help mature the organization.
-          - Worked with the vendor to improve system performance as the camping launch is extremely resource intensive for short periods. Eventually a queue solution was adopted to help spread out the user load.
-          - Worked with the vendor and service providers to solve connectivity issues that existed with some of the remote park locations.
-          - Provided data analytics to help inform policy decisions.
-          - Developed comprehensive training manual with the help of Parks staff.
+        Lacombe County is a relatively small county in Alberta. Greg was a “one-man” IT shop supporting around 150 users and workstations.
+          - Project Manager for the implementation of an Enterprise Content Management System (CMS) utilizing Microsoft Sharepoint. Implemented pilot projects including: an intranet portal, a website redesign to fit the new CMS, a document management center, and a project collaboration component.
+          - Created a recording/reporting system for the Mirror Water Treatment Plant to extract data from the Programmable Logic Controllers (PLCs) in the main control panel and create a report for the provincial government.
+          - Created an online Emergency Operations Center (EOC) such that all parties responding to the emergency could collaborate with the central EOC. Information was stored in an online database that could produce reports for each entity as required in real time.
+          - On an annual basis he provided budget estimates for all departments in regards to their technology related needs and performed cost-benefit analysis, where required, to justify these purchases to administration and council.
+          - Provided technical support and maintained all software, hardware, workstations, servers, printers, and network infrastructure.
+          - Responded to all FOIP related requests made to the county.
 
 projects:
     title: Career Highlights
     intro: >
-      My career highlights all have roots in technology, but remain focused on creating success for a business unit or units. I've been lucky to have worked with capable business subject matter experts that were able to help inform me of what they were trying to accomplish. I then used my skills to maximize their outcomes leveraging available and appropriate IT solutions.
+      My career highlights all have roots in technology, but remain focused on creating success for a business unit or units. I have worked with some fantastic subject matter experts that were able to quickly educate me on what they were trying to accomplish. I then used my skills to maximize their outcomes by leveraging available and appropriate IT solutions.
     assignments:
       - title: Ministry of Central Services, Information Technology Division
         link:
