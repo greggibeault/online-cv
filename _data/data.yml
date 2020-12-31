@@ -59,9 +59,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Director Analytics Consulting
+    - role: Director, Analytics Consulting
       time: 2018 - Present
-      company: Startup Hubs, San Francisco
+      company: ISM Canada, Regina, SK
       details: |
         Working collaboratively with the Ministry of Central Services, IT Division to refine and deliver the most impactful Enterprise Operational Reporting Service possible. Greg is onsite working closely with Ministry staff and liaising with technical teams within ISM in order to build the desired collaborative partnership. This also involves working with ministries consuming the service from the IT Division to ensure their needs are being met as well as uncovering new features they desire in order to meet the demands of their organizational units.
 
@@ -71,20 +71,21 @@ experiences:
          - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
          - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
          - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Business & Enterprise Architect
+      time: 2014 - 2018
+      company: ISM Canada, Regina, SK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Stabilized Enterprise Reporting Platform by addressing some intemittent and ongoing performance issues. Engaging software vendors and delivery teams to execute rectifying actions. Worked with downstream customers on minimizing impacts.
-          - Enhanced Enterprise Platform with new features: Burst Reporting, Jupyter Notebooks, Analytics Tools, Data Masking, Versioning Tools, Multitenancy features, Azure AD integration, Audit.
-          - Consulted with partner ministries on data and reporting projects: Climate Change data ingestion; quality checking, & reporting; Apprenticeship and Trade reporting; Social Services data ingestion, reporting, & bursting; Justice data ingestion, masking & reporting.
-          - Program manager for advanced analytics projects for final two years of a five year program. Delivered advanced analytics work on Transitions to Post Secondary (AE/ED/ICT) and Recurrent Maltreatment (SS).
-          - Strategy consulting for the Enterprise Data Management Practice. Provided insight into consultative approach and addressing issues facing partner ministries. Delivered white paper on Open Government and how to engage in such a program. Produced high level architecture on how to leverage existing components to achieve these goals.
+        CJIMS, the main project within the Integrated Justice Portfolio, transformed four existing legacy applications into a single modern application utilizing the Transformation Legacy Modernization approach from Dell. Greg acted as the liaison between the PMO/SMEs in the business unit and the technical resources at both the Information Technology Division and Dell. He also guided solutions based on Business Analysis and Architecture best practices.
+        
+        Greg also worked with several other sub projects that will integrate with CJIMS including: EPIC (Prosecutions), ACES (Enforcement Support), EMJA (Money Judgment), and PIES (Prosecutions Information Exchange).
+        
+        He was also the Business/Enterprise Architect for Justice. Worked on the “Small Systems” initiative, application modernization, roadmapping for various services, coordinating with vendor architects as well as ITD, and aiding in implementing sound solutions to support business activities and outcomes.
+         - Developed the Performance Test Strategy and performed the performance testing utilizing Rational Performance Tester against CJIMS, ACES, and EPIC. Based on the results obtained the infrastructure allotted was increased to improve performance and ensure the application will function as expected through all three phases of the project and the increased user demands.
+         - Engaged with a third party vendor to undertake a vulnerability assessment of the CJIMS application and coordinated implementing the recommendations. This ensured the system security as it contains Class A data.
+         - Initiated the creation of a reporting database server as the first steps to creating an Integrated Justice Data Warehouse. This ensured that the production server wasn’t taxed or overloaded unnecessarily by adhoc queries and management reports.
+         - Worked with SMEs to help bridge the gap on Court Financial requirements and development, especially on technical items. This includes the integration with Moneris pinpads, fee holdbacks and bank account loads, and fine distribution logic.
+         - Formalized the architecture building blocks created within IJIMS/Small Systems and built a proper business repository to encourage reuse and compliance with existing architectural standards by the subsequent projects.
+         - Architect/Business Analyst on several Justice projects: CJIMS, EPIC, ACES, EMJA, PIES, CONP, ORT, OFP. Mentoring resources on requirements gathering, workshop facilitation, requirements documentation, testing, project management, solutioning and delivering projects.
 
     - role: UI Developer
       time: 2012 - 2014
